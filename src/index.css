@@ -1,0 +1,41 @@
+body {
+font-size: 18px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+p{
+  margin: 0;
+}
+
+.container {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 0 0 8px 0;
+}
+
+.fweight{
+  font-weight: 600;
+}
+.fitalic{
+  font-style: italic;
+}
+
+.mright {
+  margin-right: 8px;
+}
+
+ul {
+  margin-bottom: -2px!important;
+}
+ul>li {
+  list-style-type: none;
+  border-radius: 8px;
+}
+
+li>span {
+  padding-top: 5px;
+  margin-left: 8px;
+}
